@@ -1,4 +1,3 @@
-# SWYNEX--healthcare-data-cleaning
 # SWYNEX Project (Healthcare Dataset)
 
 ## Task 1: Data Cleaning and Preparation
